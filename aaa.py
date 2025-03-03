@@ -1,4 +1,4 @@
-# Contoh perubahan komentar
+# Contoh perubahan komentar terbaru
 
 import pygame
 import random
