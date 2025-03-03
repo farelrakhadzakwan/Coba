@@ -1,3 +1,5 @@
+# Contoh perubahan komentar
+
 import pygame
 import random
 
